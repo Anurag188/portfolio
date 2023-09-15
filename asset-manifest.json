@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a3e4101c.css",
+    "main.js": "/Portfolio/static/js/main.86cb716a.js",
+    "static/js/787.a3103ff7.chunk.js": "/Portfolio/static/js/787.a3103ff7.chunk.js",
+    "static/media/p1.jpg": "/Portfolio/static/media/p1.a3f36f16263c79bf15a8.jpg",
+    "static/media/p3.jpg": "/Portfolio/static/media/p3.7c1c303e8417f86073ad.jpg",
+    "static/media/p2.jpg": "/Portfolio/static/media/p2.f0ccdeccdb0bcf6808a4.jpg",
+    "static/media/pic.jpg": "/Portfolio/static/media/pic.d15be70b61de6d61a449.jpg",
+    "static/media/fahkwang-latin-400-italic.woff": "/Portfolio/static/media/fahkwang-latin-400-italic.f2af71b4909f2ea8288b.woff",
+    "static/media/fahkwang-latin-400-normal.woff": "/Portfolio/static/media/fahkwang-latin-400-normal.1ba3369323e36669d761.woff",
+    "static/media/fahkwang-thai-400-italic.woff": "/Portfolio/static/media/fahkwang-thai-400-italic.a8085cbb7caffc63f49f.woff",
+    "static/media/fahkwang-latin-ext-400-italic.woff": "/Portfolio/static/media/fahkwang-latin-ext-400-italic.a1fe4334f999af62ce85.woff",
+    "static/media/fahkwang-latin-ext-400-normal.woff": "/Portfolio/static/media/fahkwang-latin-ext-400-normal.a9f4414afc12cbc122df.woff",
+    "static/media/fahkwang-thai-400-normal.woff": "/Portfolio/static/media/fahkwang-thai-400-normal.36e172066adfa99a7290.woff",
+    "static/media/fahkwang-latin-400-italic.woff2": "/Portfolio/static/media/fahkwang-latin-400-italic.89fbf618140442a7741a.woff2",
+    "static/media/fahkwang-thai-400-italic.woff2": "/Portfolio/static/media/fahkwang-thai-400-italic.9af49fd860f9c45519f4.woff2",
+    "static/media/fahkwang-latin-400-normal.woff2": "/Portfolio/static/media/fahkwang-latin-400-normal.367b75c5b58fd4491392.woff2",
+    "static/media/fahkwang-thai-400-normal.woff2": "/Portfolio/static/media/fahkwang-thai-400-normal.9275aa2a1de1797ac8b9.woff2",
+    "static/media/fahkwang-latin-ext-400-italic.woff2": "/Portfolio/static/media/fahkwang-latin-ext-400-italic.1ae67e1be0a41947373b.woff2",
+    "static/media/fahkwang-latin-ext-400-normal.woff2": "/Portfolio/static/media/fahkwang-latin-ext-400-normal.a9585f99443111d2fb0f.woff2",
+    "static/media/fahkwang-vietnamese-400-italic.woff": "/Portfolio/static/media/fahkwang-vietnamese-400-italic.0f12f332250e644a0528.woff",
+    "static/media/fahkwang-vietnamese-400-normal.woff": "/Portfolio/static/media/fahkwang-vietnamese-400-normal.79c32a014696203b0b2b.woff",
+    "static/media/fahkwang-vietnamese-400-italic.woff2": "/Portfolio/static/media/fahkwang-vietnamese-400-italic.44829817895fd55ea105.woff2",
+    "static/media/fahkwang-vietnamese-400-normal.woff2": "/Portfolio/static/media/fahkwang-vietnamese-400-normal.86df9b00de11334b6a5b.woff2",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.a3e4101c.css.map": "/Portfolio/static/css/main.a3e4101c.css.map",
+    "main.86cb716a.js.map": "/Portfolio/static/js/main.86cb716a.js.map",
+    "787.a3103ff7.chunk.js.map": "/Portfolio/static/js/787.a3103ff7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3e4101c.css",
+    "static/js/main.86cb716a.js"
+  ]
+}
