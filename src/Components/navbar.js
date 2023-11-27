@@ -10,7 +10,7 @@ const Navbar = () => {
          <nav>
           <ul>
             <li>
-                <div className="name">Anurag Agarwal <span style={{fontSize:'20px',fontWeight:'normal'}}>/&nbsp; Computer Science Student </span> </div>
+                <div className="name">Anurag Agarwal <span style={{fontSize:'20px',fontWeight:'normal'}}>/&nbsp; Software Developer </span> </div>
             </li>
             <li>
               <Link className='text-link' to="/portfolio/aboutme">About Me</Link>
