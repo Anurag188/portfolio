@@ -7,13 +7,13 @@
 .container2{
     background-color: #fff8f1;
     padding: 295px 295px 450px 1180px;
-    /* height: 600px; */
+    
 }
 
   .container1 {
     position: absolute;
     width: 550px;
-    height: 590px;
+    height: calc(100% - 150px);
     top: 150px;
     left: 0;   
     background: #e0be9a;
