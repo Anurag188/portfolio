@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+*
+{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+nav{
+    position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    background-color: #fff8f1;
+    padding: 5px;
+    height: 150px;
+    width: 100%;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul{
+    display: flex;
+}
+.name { 
+    display: inline-block;
+    color: black;
+    padding: 35px;
+    font:normal normal bold 25px/1.4em 'fahkwang',sans-serif;
+    /* background-color:#fff8f1; */
+}
+
+.text-link:link,
+.text-link:visited{
+
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    padding: 45px;
+    padding-right: 30px;
+    font:normal normal  20px/1.4em 'fahkwang',sans-serif;
+}
+
+nav ul li:nth-child(2) {
+    margin-left: auto;
+  }
+  
+  nav ul li:last-child {
+    margin-right: 0px;
+    padding-right:100px;
+  }
