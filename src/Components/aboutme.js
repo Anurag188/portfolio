@@ -31,7 +31,7 @@ return (
             <div className="pic">     
             </div>
             <div className="n">&nbsp;Anurag <br/>Agarwal</div>
-            <div className="s">Computer Science Student</div>
+            <div className="s">Software Developer</div>
             <div className="m"><p  style={{position: 'relative',top: '-12px',left:'-8px',display:'flex', textDecoration:'None' ,color:''}}>
                 <a href="https://www.linkedin.com/in/anurag-agarwal188/"><LinkedInIcon/></a>&nbsp;&nbsp;&nbsp;
                 <a href="https://www.instagram.com/albatross1649/"><InstagramIcon/></a>&nbsp;&nbsp;&nbsp;
